@@ -15,6 +15,7 @@ public class String_Comparision {
 		
 		// myName -> Pointing to memory Location --> Will point to another location 
 		String myNameAgain = new String ("ravi"); // Method 2
+		String myNameTwice = new String("Ravi");
 		// This sits somewhere else. Creates new object
 			
 		if (myName == myNameAgain) {
